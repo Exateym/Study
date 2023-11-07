@@ -1,3 +1,3 @@
 git add .
-git commit -m "Лабораторная работа №1 по информатике"
+git commit -m "Laboratory work №1"
 git push origin main

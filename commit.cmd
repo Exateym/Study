@@ -1,3 +1,3 @@
 git add .
-git commit -m "Лабораторная работа №1"
+git commit -m "Борисов Никита"
 git push origin main

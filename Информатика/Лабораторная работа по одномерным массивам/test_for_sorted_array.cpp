@@ -13,7 +13,7 @@ int main() {
         cout << "Element " << i + 1 << ": ";
         cin >> a[i];
     }
-    cout<<endl;
+    cout << endl;
     
     int i = 0;
 	bool flag = true;

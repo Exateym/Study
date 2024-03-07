@@ -1,0 +1,3 @@
+﻿  Handler.cpp
+C:\Users\Exateym\Downloads\Лаб. 9 - Работа с файлами\Handler\Handler.cpp(64,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Handler.vcxproj -> C:\Users\Exateym\Downloads\Лаб. 9 - Работа с файлами\Handler\x64\Debug\Handler.exe

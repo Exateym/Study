@@ -1,0 +1,3 @@
+﻿  FunctionWithVariableNumberOfParametrs.cpp
+C:\Users\Exateym\Downloads\FunctionWithVariableNumberOfParametrs\FunctionWithVariableNumberOfParametrs.cpp(49,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  FunctionWithVariableNumberOfParametrs.vcxproj -> C:\Users\Exateym\Downloads\FunctionWithVariableNumberOfParametrs\x64\Debug\FunctionWithVariableNumberOfParametrs.exe
